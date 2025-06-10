@@ -1,0 +1,501 @@
+Year,Month,Company,Waste_Type,Waste_Quantity_Kg,Operational_Cost_Saving_USD,Environmental_Impact_Rating,Recycle_Use,Transaction_Value_USD,Sell_Status
+2021,January,Envoy Textiles Ltd.,Cotton Waste,1982.22,3139.97,5.5,Industrial Cleaning,6869.91,sold
+2021,January,DBL Group,Synthetic Fiber Waste,1612.94,6039.14,9.6,Insulation Material,4229.4,sold
+2021,January,Square Textiles Ltd.,Thread Waste,1072.97,9436.56,1.4,Industrial Cleaning,1721.24,sold
+2021,February,Envoy Textiles Ltd.,Cotton Waste,338.67,3454.57,9.0,Reprocessed Fabric,5908.48,sold
+2021,February,DBL Group,Thread Waste,1977.9,4920.14,1.5,Reprocessed Fabric,1339.53,sold
+2021,February,Square Textiles Ltd.,Cotton Waste,609.75,6112.64,7.5,Insulation Material,2091.94,sold
+2021,March,Envoy Textiles Ltd.,Packaging Material,243.51,6369.73,7.0,Reprocessed Fabric,7639.94,sold
+2021,March,DBL Group,Thread Waste,610.84,699.85,7.5,Insulation Material,1665.83,sold
+2021,March,Square Textiles Ltd.,Denim Scraps,1998.99,6412.57,4.9,Insulation Material,4458.33,sold
+2021,April,Envoy Textiles Ltd.,Denim Scraps,1994.01,4588.26,3.9,Reprocessed Fabric,5797.67,sold
+2021,April,DBL Group,Thread Waste,1401.88,9828.02,7.2,Reprocessed Fabric,7590.77,sold
+2021,April,Square Textiles Ltd.,Packaging Material,1434.42,8593.71,4.2,Insulation Material,7578.13,sold
+2021,May,Envoy Textiles Ltd.,Denim Scraps,953.26,8066.29,5.9,Packaging,6054.77,sold
+2021,May,DBL Group,Thread Waste,1524.27,7411.85,6.7,Compost Material,5018.35,ready for sell
+2021,May,Square Textiles Ltd.,Thread Waste,313.53,3050.8,5.4,Insulation Material,3452.54,sold
+2021,June,Envoy Textiles Ltd.,Cotton Waste,1247.21,3339.8,4.7,Reprocessed Fabric,3170.53,sold
+2021,June,DBL Group,Chemical Containers,1793.5,4407.64,2.3,Packaging,6265.72,sold
+2021,June,Square Textiles Ltd.,Cotton Waste,1968.44,8490.52,1.3,Insulation Material,6480.24,ready for sell
+2021,July,Envoy Textiles Ltd.,Chemical Containers,1723.58,6990.17,1.5,Reprocessed Fabric,6779.54,sold
+2021,July,DBL Group,Synthetic Fiber Waste,1066.11,2712.57,8.6,Packaging,1754.4,sold
+2021,July,Square Textiles Ltd.,Synthetic Fiber Waste,1500.72,6459.48,5.2,Compost Material,1576.57,sold
+2021,August,Envoy Textiles Ltd.,Chemical Containers,1997.27,735.76,8.5,Compost Material,6881.12,sold
+2021,August,DBL Group,Thread Waste,319.46,3598.01,3.0,Reprocessed Fabric,2077.83,sold
+2021,August,Square Textiles Ltd.,Synthetic Fiber Waste,1787.72,4869.45,6.5,Packaging,7767.38,sold
+2021,September,Envoy Textiles Ltd.,Chemical Containers,739.15,5430.71,9.8,Reprocessed Fabric,4517.18,sold
+2021,September,DBL Group,Thread Waste,374.43,4699.63,4.0,Compost Material,3921.34,sold
+2021,September,Square Textiles Ltd.,Packaging Material,591.54,746.01,3.6,Reprocessed Fabric,518.19,sold
+2021,October,Envoy Textiles Ltd.,Packaging Material,1914.83,2781.44,3.9,Reprocessed Fabric,3286.58,sold
+2021,October,DBL Group,Chemical Containers,460.87,8278.09,2.1,Compost Material,2795.08,sold
+2021,October,Square Textiles Ltd.,Packaging Material,959.47,2109.51,6.7,Industrial Cleaning,3072.21,sold
+2021,November,Envoy Textiles Ltd.,Cotton Waste,1358.01,9169.69,8.9,Packaging,5386.32,sold
+2021,November,DBL Group,Cotton Waste,994.33,966.91,2.7,Insulation Material,2914.37,sold
+2021,November,Square Textiles Ltd.,Synthetic Fiber Waste,829.64,8616.8,7.7,Industrial Cleaning,2090.79,sold
+2021,December,Envoy Textiles Ltd.,Synthetic Fiber Waste,1205.02,5568.06,6.4,Industrial Cleaning,1776.99,sold
+2021,December,DBL Group,Cotton Waste,1001.97,2954.73,8.4,Industrial Cleaning,7498.9,sold
+2021,December,Square Textiles Ltd.,Synthetic Fiber Waste,1551.78,2854.22,1.3,Packaging,5855.1,sold
+2022,January,Envoy Textiles Ltd.,Chemical Containers,903.13,2408.33,3.8,Compost Material,5249.76,sold
+2022,January,DBL Group,Denim Scraps,1557.62,9740.54,3.6,Insulation Material,2830.69,sold
+2022,January,Square Textiles Ltd.,Synthetic Fiber Waste,1653.8,5718.6,9.4,Reprocessed Fabric,5151.06,sold
+2022,February,Envoy Textiles Ltd.,Chemical Containers,262.26,4773.14,7.8,Insulation Material,4855.65,sold
+2022,February,DBL Group,Synthetic Fiber Waste,271.94,5226.53,3.4,Industrial Cleaning,7180.43,sold
+2022,February,Square Textiles Ltd.,Cotton Waste,1732.06,1343.35,8.8,Industrial Cleaning,3329.08,sold
+2022,March,Envoy Textiles Ltd.,Packaging Material,894.14,2886.32,3.9,Packaging,5862.38,ready for sell
+2022,March,DBL Group,Denim Scraps,782.1,8179.4,4.5,Compost Material,7158.73,sold
+2022,March,Square Textiles Ltd.,Packaging Material,1514.44,1943.81,2.2,Reprocessed Fabric,5206.28,sold
+2022,April,Envoy Textiles Ltd.,Synthetic Fiber Waste,220.18,1751.24,8.7,Compost Material,2100.29,sold
+2022,April,DBL Group,Denim Scraps,1102.4,6726.64,3.1,Insulation Material,239.4,sold
+2022,April,Square Textiles Ltd.,Chemical Containers,1106.19,4308.38,3.7,Compost Material,4393.53,sold
+2022,May,Envoy Textiles Ltd.,Synthetic Fiber Waste,1625.77,4444.98,3.6,Packaging,5952.98,sold
+2022,May,DBL Group,Cotton Waste,775.51,8184.16,3.7,Industrial Cleaning,1894.94,sold
+2022,May,Square Textiles Ltd.,Denim Scraps,1717.4,8085.6,3.4,Insulation Material,5325.58,sold
+2022,June,Envoy Textiles Ltd.,Packaging Material,1046.58,4667.34,3.0,Packaging,6870.53,sold
+2022,June,DBL Group,Thread Waste,269.75,4658.92,3.1,Compost Material,4771.28,sold
+2022,June,Square Textiles Ltd.,Chemical Containers,1788.82,7584.47,1.3,Packaging,6314.01,sold
+2022,July,Envoy Textiles Ltd.,Chemical Containers,1926.93,8168.99,5.1,Packaging,187.01,sold
+2022,July,DBL Group,Packaging Material,1362.46,7233.59,2.6,Compost Material,1981.19,sold
+2022,July,Square Textiles Ltd.,Cotton Waste,1552.08,8004.76,6.8,Compost Material,5925.25,sold
+2022,August,Envoy Textiles Ltd.,Chemical Containers,924.39,7602.17,10.0,Compost Material,2370.48,sold
+2022,August,DBL Group,Cotton Waste,1215.96,2155.0,9.7,Insulation Material,6711.22,sold
+2022,August,Square Textiles Ltd.,Denim Scraps,1998.49,3225.04,3.5,Insulation Material,4854.43,sold
+2022,September,Envoy Textiles Ltd.,Denim Scraps,1606.4,9104.69,9.8,Industrial Cleaning,4924.78,ready for sell
+2022,September,DBL Group,Packaging Material,314.4,8765.24,6.7,Industrial Cleaning,3495.67,sold
+2022,September,Square Textiles Ltd.,Denim Scraps,128.54,3470.78,6.3,Packaging,3466.37,sold
+2022,October,Envoy Textiles Ltd.,Cotton Waste,1237.88,3106.91,4.6,Reprocessed Fabric,7535.6,sold
+2022,October,DBL Group,Cotton Waste,1146.04,8345.94,3.7,Reprocessed Fabric,941.75,sold
+2022,October,Square Textiles Ltd.,Cotton Waste,583.86,9982.85,2.7,Reprocessed Fabric,4261.86,sold
+2022,November,Envoy Textiles Ltd.,Thread Waste,310.03,2584.2,5.2,Insulation Material,6328.36,sold
+2022,November,DBL Group,Cotton Waste,910.0,3670.19,3.8,Compost Material,888.13,sold
+2022,November,Square Textiles Ltd.,Cotton Waste,1366.4,8171.59,5.6,Reprocessed Fabric,1960.97,sold
+2022,December,Envoy Textiles Ltd.,Denim Scraps,1733.06,7242.96,5.3,Packaging,7463.82,sold
+2022,December,DBL Group,Thread Waste,1520.63,2723.98,1.5,Packaging,1083.03,sold
+2022,December,Square Textiles Ltd.,Chemical Containers,650.86,8602.97,4.5,Industrial Cleaning,7356.32,sold
+2023,January,Envoy Textiles Ltd.,Chemical Containers,397.41,3983.06,6.6,Compost Material,2381.83,sold
+2023,January,DBL Group,Denim Scraps,417.21,1650.98,1.8,Reprocessed Fabric,2714.84,sold
+2023,January,Square Textiles Ltd.,Denim Scraps,688.74,5321.34,4.6,Industrial Cleaning,1891.39,sold
+2023,February,Envoy Textiles Ltd.,Cotton Waste,1410.67,6223.19,2.0,Compost Material,5060.87,sold
+2023,February,DBL Group,Cotton Waste,1828.21,6521.95,1.6,Reprocessed Fabric,7666.36,sold
+2023,February,Square Textiles Ltd.,Denim Scraps,1111.48,3381.96,4.5,Packaging,2520.55,sold
+2023,March,Envoy Textiles Ltd.,Packaging Material,601.55,4561.32,7.6,Packaging,6861.81,sold
+2023,March,DBL Group,Denim Scraps,443.21,5113.49,7.3,Compost Material,6161.14,sold
+2023,March,Square Textiles Ltd.,Denim Scraps,711.2,4922.13,9.5,Insulation Material,7499.62,sold
+2023,April,Envoy Textiles Ltd.,Cotton Waste,383.86,5344.86,5.1,Insulation Material,3868.68,sold
+2023,April,DBL Group,Thread Waste,1034.3,9014.24,8.3,Packaging,6432.16,ready for sell
+2023,April,Square Textiles Ltd.,Thread Waste,1015.02,6965.38,8.7,Insulation Material,2173.83,sold
+2023,May,Envoy Textiles Ltd.,Thread Waste,538.86,8118.18,8.7,Compost Material,650.56,sold
+2023,May,DBL Group,Packaging Material,509.18,3272.74,2.6,Industrial Cleaning,7295.59,sold
+2023,May,Square Textiles Ltd.,Thread Waste,1875.38,960.41,2.9,Industrial Cleaning,7034.99,sold
+2023,June,Envoy Textiles Ltd.,Chemical Containers,1346.74,4131.25,3.5,Packaging,2632.45,sold
+2023,June,DBL Group,Packaging Material,401.96,1007.86,5.0,Compost Material,2606.35,sold
+2023,June,Square Textiles Ltd.,Denim Scraps,1046.1,3445.32,8.3,Reprocessed Fabric,4347.7,ready for sell
+2023,July,Envoy Textiles Ltd.,Cotton Waste,1550.26,1796.78,3.1,Insulation Material,7789.6,sold
+2023,July,DBL Group,Cotton Waste,1000.17,4744.34,1.1,Industrial Cleaning,7111.58,ready for sell
+2023,July,Square Textiles Ltd.,Synthetic Fiber Waste,1386.87,7174.98,9.6,Insulation Material,2620.45,sold
+2023,August,Envoy Textiles Ltd.,Synthetic Fiber Waste,1872.85,8771.38,4.8,Reprocessed Fabric,6818.39,sold
+2023,August,DBL Group,Packaging Material,243.7,5982.11,6.8,Reprocessed Fabric,4418.26,sold
+2023,August,Square Textiles Ltd.,Chemical Containers,1522.48,8365.29,7.9,Reprocessed Fabric,5411.03,ready for sell
+2023,September,Envoy Textiles Ltd.,Packaging Material,1470.13,3850.57,3.9,Reprocessed Fabric,2495.34,sold
+2023,September,DBL Group,Chemical Containers,994.34,1995.03,1.3,Industrial Cleaning,6437.4,sold
+2023,September,Square Textiles Ltd.,Thread Waste,1418.37,2016.51,9.1,Reprocessed Fabric,3699.44,sold
+2023,October,Envoy Textiles Ltd.,Cotton Waste,1659.6,2745.26,7.0,Insulation Material,6666.84,sold
+2023,October,DBL Group,Synthetic Fiber Waste,766.22,4079.7,5.8,Compost Material,900.08,sold
+2023,October,Square Textiles Ltd.,Packaging Material,572.58,647.23,2.5,Packaging,1613.02,sold
+2023,November,Envoy Textiles Ltd.,Synthetic Fiber Waste,1744.73,2792.82,1.7,Insulation Material,7164.04,sold
+2023,November,DBL Group,Thread Waste,1506.03,3442.47,8.7,Compost Material,4870.04,sold
+2023,November,Square Textiles Ltd.,Synthetic Fiber Waste,1492.13,6360.41,1.0,Insulation Material,5367.0,sold
+2023,December,Envoy Textiles Ltd.,Packaging Material,1212.98,6074.3,5.0,Industrial Cleaning,7343.99,sold
+2023,December,DBL Group,Packaging Material,392.0,8698.16,3.4,Compost Material,3218.98,sold
+2023,December,Square Textiles Ltd.,Thread Waste,1872.27,1244.11,7.2,Reprocessed Fabric,6382.77,sold
+2024,January,Envoy Textiles Ltd.,Cotton Waste,950.38,8379.57,3.7,Insulation Material,3922.0,sold
+2024,January,DBL Group,Thread Waste,327.52,8125.23,3.2,Reprocessed Fabric,3291.41,sold
+2024,January,Square Textiles Ltd.,Denim Scraps,639.12,4647.53,6.7,Insulation Material,3165.98,sold
+2024,February,Envoy Textiles Ltd.,Synthetic Fiber Waste,1856.54,5456.56,1.1,Industrial Cleaning,7786.4,sold
+2024,February,DBL Group,Denim Scraps,1630.66,1053.62,9.3,Reprocessed Fabric,4498.0,sold
+2024,February,Square Textiles Ltd.,Packaging Material,922.26,5099.75,6.8,Compost Material,5266.55,sold
+2024,March,Envoy Textiles Ltd.,Thread Waste,688.71,1315.05,1.8,Industrial Cleaning,6072.43,sold
+2024,March,DBL Group,Cotton Waste,182.02,3441.21,3.9,Compost Material,444.92,sold
+2024,March,Square Textiles Ltd.,Cotton Waste,1938.71,3554.65,10.0,Packaging,1610.56,sold
+2024,April,Envoy Textiles Ltd.,Denim Scraps,1361.79,5516.45,9.7,Industrial Cleaning,5790.63,sold
+2024,April,DBL Group,Synthetic Fiber Waste,875.28,2317.14,5.7,Industrial Cleaning,6454.56,sold
+2024,April,Square Textiles Ltd.,Denim Scraps,1431.92,1576.06,8.0,Industrial Cleaning,6295.81,sold
+2024,May,Envoy Textiles Ltd.,Denim Scraps,256.62,7773.7,1.6,Reprocessed Fabric,2663.6,sold
+2024,May,DBL Group,Denim Scraps,637.07,4878.25,7.0,Packaging,7350.29,sold
+2024,May,Square Textiles Ltd.,Cotton Waste,1969.83,7494.41,8.0,Insulation Material,1147.34,sold
+2024,June,Envoy Textiles Ltd.,Packaging Material,188.17,6427.62,6.6,Compost Material,709.44,sold
+2024,June,DBL Group,Cotton Waste,554.59,3165.01,8.4,Insulation Material,4194.76,sold
+2024,June,Square Textiles Ltd.,Thread Waste,697.42,6019.2,7.6,Packaging,6929.88,ready for sell
+2024,July,Envoy Textiles Ltd.,Synthetic Fiber Waste,1451.13,993.68,8.7,Industrial Cleaning,2279.83,sold
+2024,July,DBL Group,Chemical Containers,1653.92,3789.53,8.3,Packaging,864.87,ready for sell
+2024,July,Square Textiles Ltd.,Chemical Containers,1984.2,7819.16,2.9,Packaging,2665.17,sold
+2024,August,Envoy Textiles Ltd.,Chemical Containers,698.13,5112.23,5.3,Insulation Material,4781.29,sold
+2024,August,DBL Group,Cotton Waste,1053.68,6248.18,6.0,Reprocessed Fabric,6083.66,sold
+2024,August,Square Textiles Ltd.,Chemical Containers,1638.56,8922.85,3.4,Compost Material,6152.64,sold
+2024,September,Envoy Textiles Ltd.,Denim Scraps,1495.19,6541.43,8.9,Reprocessed Fabric,7478.5,sold
+2024,September,DBL Group,Chemical Containers,580.26,4363.05,4.4,Packaging,7554.07,sold
+2024,September,Square Textiles Ltd.,Cotton Waste,1757.11,1176.95,8.7,Reprocessed Fabric,4932.08,sold
+2024,October,Envoy Textiles Ltd.,Chemical Containers,1457.93,9408.19,9.2,Reprocessed Fabric,7789.81,sold
+2024,October,DBL Group,Synthetic Fiber Waste,1127.44,9695.71,3.3,Compost Material,6888.67,sold
+2024,October,Square Textiles Ltd.,Thread Waste,752.03,5835.05,1.7,Industrial Cleaning,2349.03,sold
+2024,November,Envoy Textiles Ltd.,Packaging Material,999.53,6325.12,8.8,Packaging,6054.08,sold
+2024,November,DBL Group,Thread Waste,1820.61,1637.72,5.8,Insulation Material,6621.12,sold
+2024,November,Square Textiles Ltd.,Synthetic Fiber Waste,1012.2,5586.02,2.5,Industrial Cleaning,6841.83,sold
+2024,December,Envoy Textiles Ltd.,Synthetic Fiber Waste,604.04,9087.55,3.9,Reprocessed Fabric,499.01,sold
+2024,December,DBL Group,Denim Scraps,1468.71,4722.56,3.3,Reprocessed Fabric,5392.63,sold
+2024,December,Square Textiles Ltd.,Thread Waste,1631.19,1252.87,2.7,Packaging,3638.83,sold
+2025,January,Envoy Textiles Ltd.,Denim Scraps,709.35,9657.2,6.8,Packaging,3498.39,sold
+2025,January,DBL Group,Cotton Waste,672.77,1398.29,7.8,Reprocessed Fabric,4605.47,sold
+2025,January,Square Textiles Ltd.,Chemical Containers,366.95,6414.22,2.9,Reprocessed Fabric,4404.57,sold
+2025,February,Envoy Textiles Ltd.,Cotton Waste,747.94,9637.72,5.9,Reprocessed Fabric,3992.97,sold
+2025,February,DBL Group,Denim Scraps,1802.01,6705.28,4.1,Packaging,5151.15,ready for sell
+2025,February,Square Textiles Ltd.,Packaging Material,656.56,4048.63,7.0,Industrial Cleaning,7318.45,sold
+2025,March,Envoy Textiles Ltd.,Synthetic Fiber Waste,665.38,7998.26,1.3,Packaging,4260.1,sold
+2025,March,DBL Group,Packaging Material,226.17,9898.82,1.4,Packaging,3597.61,sold
+2025,March,Square Textiles Ltd.,Thread Waste,541.88,6273.11,4.6,Insulation Material,1630.93,ready for sell
+2025,April,Envoy Textiles Ltd.,Chemical Containers,1502.49,2296.82,6.2,Reprocessed Fabric,1588.24,sold
+2025,April,DBL Group,Chemical Containers,253.35,9931.32,8.1,Industrial Cleaning,2221.15,sold
+2025,April,Square Textiles Ltd.,Cotton Waste,1113.87,9468.39,4.6,Reprocessed Fabric,4149.35,sold
+2025,May,Envoy Textiles Ltd.,Synthetic Fiber Waste,964.41,4972.46,7.4,Insulation Material,4497.79,sold
+2025,May,DBL Group,Cotton Waste,125.68,2040.62,9.9,Reprocessed Fabric,6107.67,sold
+2025,May,Square Textiles Ltd.,Cotton Waste,1896.97,2372.51,8.9,Industrial Cleaning,3685.39,ready for sell
+2025,June,Envoy Textiles Ltd.,Chemical Containers,469.64,7450.96,2.4,Reprocessed Fabric,4675.13,sold
+2025,June,DBL Group,Synthetic Fiber Waste,1380.96,6516.05,1.9,Packaging,2456.87,sold
+2025,June,Square Textiles Ltd.,Synthetic Fiber Waste,789.26,2884.38,7.2,Insulation Material,3504.77,sold
+2025,July,Envoy Textiles Ltd.,Denim Scraps,1698.55,6007.78,6.6,Reprocessed Fabric,7169.47,sold
+2025,July,DBL Group,Cotton Waste,762.34,7357.1,1.7,Industrial Cleaning,5937.53,sold
+2025,July,Square Textiles Ltd.,Cotton Waste,1800.56,7017.23,3.2,Packaging,5045.27,sold
+2025,August,Envoy Textiles Ltd.,Thread Waste,868.59,3954.31,3.0,Industrial Cleaning,4015.96,sold
+2025,August,DBL Group,Cotton Waste,1234.52,4529.76,5.0,Industrial Cleaning,4177.46,sold
+2025,August,Square Textiles Ltd.,Chemical Containers,1407.03,8707.57,3.7,Reprocessed Fabric,778.69,sold
+2025,September,Envoy Textiles Ltd.,Chemical Containers,457.23,6704.8,2.3,Compost Material,3004.9,ready for sell
+2025,September,DBL Group,Packaging Material,688.3,6805.48,7.0,Packaging,1807.4,sold
+2025,September,Square Textiles Ltd.,Denim Scraps,499.71,718.95,9.1,Compost Material,6900.41,sold
+2025,October,Envoy Textiles Ltd.,Cotton Waste,166.83,9162.31,8.0,Reprocessed Fabric,1160.2,sold
+2025,October,DBL Group,Cotton Waste,745.36,7225.5,6.0,Industrial Cleaning,5241.54,sold
+2025,October,Square Textiles Ltd.,Chemical Containers,1795.96,4857.17,7.1,Insulation Material,6983.54,ready for sell
+2025,November,Envoy Textiles Ltd.,Packaging Material,1969.09,9626.79,3.9,Reprocessed Fabric,6779.85,sold
+2025,November,DBL Group,Cotton Waste,176.24,9063.74,6.0,Reprocessed Fabric,6691.99,sold
+2025,November,Square Textiles Ltd.,Thread Waste,1426.53,3268.44,4.0,Reprocessed Fabric,4702.29,sold
+2025,December,Envoy Textiles Ltd.,Chemical Containers,1722.35,1831.57,5.9,Compost Material,3629.24,sold
+2025,December,DBL Group,Packaging Material,362.67,4674.92,5.5,Compost Material,5461.41,sold
+2025,December,Square Textiles Ltd.,Chemical Containers,1919.88,8895.74,9.4,Compost Material,2761.1,sold
+2021,January,Envoy Textiles Ltd.,Packaging Material,1736.12,1244.21,1.7,Compost Material,6949.93,sold
+2021,January,DBL Group,Packaging Material,1062.07,9729.41,3.5,Packaging,1879.4,sold
+2021,January,Square Textiles Ltd.,Packaging Material,581.87,8895.47,6.1,Industrial Cleaning,1872.52,sold
+2021,February,Envoy Textiles Ltd.,Denim Scraps,1257.99,8295.48,3.6,Industrial Cleaning,6012.05,sold
+2021,February,DBL Group,Synthetic Fiber Waste,716.76,7351.01,6.9,Packaging,2903.28,sold
+2021,February,Square Textiles Ltd.,Denim Scraps,1212.21,5702.35,6.8,Compost Material,1042.25,sold
+2021,March,Envoy Textiles Ltd.,Thread Waste,1050.38,8484.21,7.3,Industrial Cleaning,6631.27,sold
+2021,March,DBL Group,Cotton Waste,655.59,8811.52,7.9,Industrial Cleaning,7914.81,sold
+2021,March,Square Textiles Ltd.,Chemical Containers,188.7,7905.55,3.3,Industrial Cleaning,5661.1,sold
+2021,April,Envoy Textiles Ltd.,Denim Scraps,876.96,6788.71,5.2,Compost Material,3651.83,sold
+2021,April,DBL Group,Synthetic Fiber Waste,1065.01,5521.55,8.3,Insulation Material,5083.72,sold
+2021,April,Square Textiles Ltd.,Cotton Waste,656.08,4229.58,4.1,Reprocessed Fabric,6583.07,sold
+2021,May,Envoy Textiles Ltd.,Denim Scraps,797.62,5651.85,2.3,Packaging,2454.51,sold
+2021,May,DBL Group,Packaging Material,1203.51,7286.68,9.2,Industrial Cleaning,5900.75,ready for sell
+2021,May,Square Textiles Ltd.,Chemical Containers,1468.19,6921.93,7.4,Industrial Cleaning,5433.53,sold
+2021,June,Envoy Textiles Ltd.,Chemical Containers,1091.54,1204.67,2.7,Compost Material,5826.81,sold
+2021,June,DBL Group,Cotton Waste,323.36,9907.11,2.9,Insulation Material,1927.38,sold
+2021,June,Square Textiles Ltd.,Chemical Containers,678.69,2172.38,8.1,Reprocessed Fabric,7324.09,sold
+2021,July,Envoy Textiles Ltd.,Cotton Waste,1710.52,7829.91,8.9,Reprocessed Fabric,1768.55,ready for sell
+2021,July,DBL Group,Chemical Containers,439.8,9068.2,4.6,Insulation Material,408.72,sold
+2021,July,Square Textiles Ltd.,Packaging Material,1514.4,9726.59,4.9,Compost Material,828.93,sold
+2021,August,Envoy Textiles Ltd.,Synthetic Fiber Waste,759.85,6969.98,4.4,Reprocessed Fabric,3579.43,sold
+2021,August,DBL Group,Chemical Containers,1526.27,5141.75,6.4,Packaging,7102.31,sold
+2021,August,Square Textiles Ltd.,Thread Waste,1777.29,9259.46,1.9,Compost Material,545.03,sold
+2021,September,Envoy Textiles Ltd.,Denim Scraps,955.05,3660.56,4.9,Compost Material,1401.27,sold
+2021,September,DBL Group,Thread Waste,480.29,3536.1,6.3,Packaging,1264.88,sold
+2021,September,Square Textiles Ltd.,Synthetic Fiber Waste,1643.4,7647.89,7.8,Industrial Cleaning,970.36,sold
+2021,October,Envoy Textiles Ltd.,Chemical Containers,397.21,8574.41,7.5,Compost Material,2462.2,sold
+2021,October,DBL Group,Cotton Waste,1375.32,798.74,7.5,Packaging,6980.64,ready for sell
+2021,October,Square Textiles Ltd.,Chemical Containers,1562.57,5832.88,8.9,Insulation Material,7891.99,sold
+2021,November,Envoy Textiles Ltd.,Denim Scraps,1523.7,9664.56,1.7,Insulation Material,1462.33,sold
+2021,November,DBL Group,Synthetic Fiber Waste,277.95,7796.85,7.7,Reprocessed Fabric,5004.47,sold
+2021,November,Square Textiles Ltd.,Chemical Containers,237.48,8870.5,3.3,Industrial Cleaning,4700.92,sold
+2021,December,Envoy Textiles Ltd.,Cotton Waste,977.66,8525.52,9.1,Reprocessed Fabric,2290.34,sold
+2021,December,DBL Group,Chemical Containers,1526.5,6624.84,4.2,Industrial Cleaning,6386.72,sold
+2021,December,Square Textiles Ltd.,Thread Waste,1547.86,5605.1,8.6,Compost Material,2680.84,sold
+2022,January,Envoy Textiles Ltd.,Packaging Material,630.99,6027.72,1.5,Insulation Material,5592.54,sold
+2022,January,DBL Group,Chemical Containers,1315.57,1019.5,4.7,Reprocessed Fabric,142.26,sold
+2022,January,Square Textiles Ltd.,Chemical Containers,1863.84,1020.48,4.8,Reprocessed Fabric,7476.06,sold
+2022,February,Envoy Textiles Ltd.,Packaging Material,1102.17,1840.7,1.0,Packaging,2798.4,sold
+2022,February,DBL Group,Thread Waste,1171.35,5406.22,7.5,Industrial Cleaning,1395.06,sold
+2022,February,Square Textiles Ltd.,Synthetic Fiber Waste,980.44,6194.59,2.5,Industrial Cleaning,208.49,sold
+2022,March,Envoy Textiles Ltd.,Cotton Waste,344.39,4734.9,8.3,Industrial Cleaning,4203.24,sold
+2022,March,DBL Group,Chemical Containers,1372.4,9633.13,6.4,Packaging,1651.89,sold
+2022,March,Square Textiles Ltd.,Chemical Containers,843.92,7276.56,6.9,Reprocessed Fabric,4269.89,sold
+2022,April,Envoy Textiles Ltd.,Synthetic Fiber Waste,295.6,7330.72,5.5,Compost Material,6877.54,sold
+2022,April,DBL Group,Chemical Containers,735.01,744.55,4.1,Insulation Material,3555.05,sold
+2022,April,Square Textiles Ltd.,Denim Scraps,1301.7,3238.81,6.7,Insulation Material,6834.2,sold
+2022,May,Envoy Textiles Ltd.,Chemical Containers,1389.91,4223.69,3.4,Reprocessed Fabric,3488.21,sold
+2022,May,DBL Group,Synthetic Fiber Waste,1481.55,506.81,9.4,Reprocessed Fabric,1945.29,sold
+2022,May,Square Textiles Ltd.,Cotton Waste,171.86,1669.0,9.9,Compost Material,2614.98,sold
+2022,June,Envoy Textiles Ltd.,Chemical Containers,1982.35,2852.36,5.6,Insulation Material,265.19,sold
+2022,June,DBL Group,Cotton Waste,1268.67,5071.29,5.1,Compost Material,4734.51,sold
+2022,June,Square Textiles Ltd.,Cotton Waste,1341.25,1168.5,6.7,Packaging,3111.06,sold
+2022,July,Envoy Textiles Ltd.,Denim Scraps,1157.79,8620.04,9.4,Insulation Material,2753.97,ready for sell
+2022,July,DBL Group,Packaging Material,280.61,2404.46,4.7,Industrial Cleaning,382.55,sold
+2022,July,Square Textiles Ltd.,Cotton Waste,494.19,9105.58,8.5,Reprocessed Fabric,4589.72,sold
+2022,August,Envoy Textiles Ltd.,Chemical Containers,227.76,4914.55,8.4,Insulation Material,6944.78,sold
+2022,August,DBL Group,Chemical Containers,125.92,3380.59,7.3,Industrial Cleaning,2436.45,ready for sell
+2022,August,Square Textiles Ltd.,Chemical Containers,900.13,4399.97,3.1,Reprocessed Fabric,7067.04,sold
+2022,September,Envoy Textiles Ltd.,Denim Scraps,650.77,637.89,6.2,Reprocessed Fabric,2599.37,sold
+2022,September,DBL Group,Denim Scraps,757.07,3899.49,1.1,Insulation Material,6018.35,sold
+2022,September,Square Textiles Ltd.,Cotton Waste,1117.49,5664.16,6.9,Industrial Cleaning,1871.76,sold
+2022,October,Envoy Textiles Ltd.,Packaging Material,890.38,7593.37,1.8,Industrial Cleaning,4557.14,sold
+2022,October,DBL Group,Thread Waste,1490.56,4146.02,9.5,Compost Material,3261.23,sold
+2022,October,Square Textiles Ltd.,Cotton Waste,622.95,1214.42,7.4,Insulation Material,6805.26,sold
+2022,November,Envoy Textiles Ltd.,Thread Waste,1031.86,2948.11,9.0,Packaging,2663.98,sold
+2022,November,DBL Group,Chemical Containers,1009.43,924.28,3.8,Reprocessed Fabric,6507.59,sold
+2022,November,Square Textiles Ltd.,Synthetic Fiber Waste,1371.45,7458.19,4.9,Reprocessed Fabric,4911.33,sold
+2022,December,Envoy Textiles Ltd.,Chemical Containers,948.86,4991.84,6.8,Reprocessed Fabric,3546.33,ready for sell
+2022,December,DBL Group,Thread Waste,251.22,9433.77,3.3,Reprocessed Fabric,935.82,sold
+2022,December,Square Textiles Ltd.,Cotton Waste,280.41,7417.74,3.9,Industrial Cleaning,2763.9,sold
+2023,January,Envoy Textiles Ltd.,Cotton Waste,331.59,5342.69,6.3,Packaging,5217.8,sold
+2023,January,DBL Group,Cotton Waste,375.7,9091.62,9.7,Industrial Cleaning,5858.08,sold
+2023,January,Square Textiles Ltd.,Synthetic Fiber Waste,629.86,9527.01,1.6,Insulation Material,6628.98,sold
+2023,February,Envoy Textiles Ltd.,Packaging Material,1999.51,2818.61,7.9,Industrial Cleaning,2587.97,sold
+2023,February,DBL Group,Packaging Material,1806.01,1720.9,1.2,Compost Material,3420.65,sold
+2023,February,Square Textiles Ltd.,Chemical Containers,1967.04,6551.95,2.5,Insulation Material,383.55,sold
+2023,March,Envoy Textiles Ltd.,Chemical Containers,768.83,4402.69,1.2,Compost Material,5702.53,sold
+2023,March,DBL Group,Chemical Containers,500.91,7038.78,3.0,Industrial Cleaning,3914.2,sold
+2023,March,Square Textiles Ltd.,Chemical Containers,961.2,8025.8,8.5,Reprocessed Fabric,5526.25,sold
+2023,April,Envoy Textiles Ltd.,Packaging Material,1256.31,5818.63,9.7,Insulation Material,1755.2,sold
+2023,April,DBL Group,Cotton Waste,1440.08,7486.65,3.7,Insulation Material,856.46,sold
+2023,April,Square Textiles Ltd.,Cotton Waste,868.83,1093.25,8.4,Packaging,5578.73,sold
+2023,May,Envoy Textiles Ltd.,Denim Scraps,1694.88,4757.62,6.7,Insulation Material,4224.8,sold
+2023,May,DBL Group,Denim Scraps,1626.2,3084.02,7.5,Packaging,4033.17,sold
+2023,May,Square Textiles Ltd.,Packaging Material,1219.4,4817.01,7.7,Packaging,6627.12,sold
+2023,June,Envoy Textiles Ltd.,Chemical Containers,1096.43,8157.92,4.2,Packaging,3087.83,sold
+2023,June,DBL Group,Chemical Containers,1761.39,8584.54,8.0,Packaging,4314.48,sold
+2023,June,Square Textiles Ltd.,Cotton Waste,968.18,9450.5,9.0,Insulation Material,3662.79,sold
+2023,July,Envoy Textiles Ltd.,Chemical Containers,1444.29,796.16,8.8,Insulation Material,3568.43,sold
+2023,July,DBL Group,Cotton Waste,1441.18,9160.57,6.9,Industrial Cleaning,3241.32,sold
+2023,July,Square Textiles Ltd.,Packaging Material,1321.27,3613.83,8.7,Industrial Cleaning,2131.24,sold
+2023,August,Envoy Textiles Ltd.,Synthetic Fiber Waste,1882.3,1954.78,1.1,Reprocessed Fabric,6580.19,sold
+2023,August,DBL Group,Denim Scraps,346.81,7296.64,1.6,Reprocessed Fabric,2074.68,sold
+2023,August,Square Textiles Ltd.,Packaging Material,1211.87,4012.51,5.4,Insulation Material,1220.57,sold
+2023,September,Envoy Textiles Ltd.,Denim Scraps,300.48,6989.16,6.9,Reprocessed Fabric,3384.62,sold
+2023,September,DBL Group,Denim Scraps,536.43,2777.24,4.4,Industrial Cleaning,4728.32,sold
+2023,September,Square Textiles Ltd.,Denim Scraps,1111.38,9100.56,1.7,Compost Material,6011.05,sold
+2023,October,Envoy Textiles Ltd.,Cotton Waste,570.37,8169.78,7.9,Reprocessed Fabric,474.58,sold
+2023,October,DBL Group,Denim Scraps,477.23,5200.87,7.7,Compost Material,5509.71,sold
+2023,October,Square Textiles Ltd.,Thread Waste,1950.11,6801.94,4.7,Insulation Material,5948.39,sold
+2023,November,Envoy Textiles Ltd.,Packaging Material,1670.93,6152.06,8.1,Compost Material,5465.35,sold
+2023,November,DBL Group,Cotton Waste,154.79,3712.33,2.0,Insulation Material,7475.56,sold
+2023,November,Square Textiles Ltd.,Packaging Material,543.86,7894.53,6.5,Compost Material,3854.85,sold
+2023,December,Envoy Textiles Ltd.,Chemical Containers,690.1,6349.4,7.2,Insulation Material,2374.25,sold
+2023,December,DBL Group,Chemical Containers,1436.7,6626.13,4.4,Reprocessed Fabric,5698.58,sold
+2023,December,Square Textiles Ltd.,Synthetic Fiber Waste,1850.03,3548.89,3.3,Insulation Material,5410.39,sold
+2024,January,Envoy Textiles Ltd.,Synthetic Fiber Waste,444.38,7264.08,4.5,Insulation Material,5455.37,sold
+2024,January,DBL Group,Chemical Containers,1012.17,5168.37,7.5,Reprocessed Fabric,3072.86,sold
+2024,January,Square Textiles Ltd.,Thread Waste,199.31,7012.62,4.9,Insulation Material,4992.85,sold
+2024,February,Envoy Textiles Ltd.,Denim Scraps,1024.14,3335.28,6.7,Reprocessed Fabric,1964.46,sold
+2024,February,DBL Group,Synthetic Fiber Waste,176.62,1400.3,1.1,Reprocessed Fabric,114.32,sold
+2024,February,Square Textiles Ltd.,Chemical Containers,746.84,9914.37,5.7,Reprocessed Fabric,7495.39,sold
+2024,March,Envoy Textiles Ltd.,Packaging Material,793.15,8797.22,4.6,Compost Material,1049.98,sold
+2024,March,DBL Group,Cotton Waste,766.4,7698.48,6.2,Insulation Material,5500.38,sold
+2024,March,Square Textiles Ltd.,Synthetic Fiber Waste,1868.71,1553.74,4.7,Packaging,2115.19,sold
+2024,April,Envoy Textiles Ltd.,Cotton Waste,680.29,1997.78,2.6,Compost Material,7195.18,sold
+2024,April,DBL Group,Packaging Material,301.64,7042.13,9.8,Compost Material,5893.87,ready for sell
+2024,April,Square Textiles Ltd.,Chemical Containers,465.91,1427.38,9.1,Reprocessed Fabric,1429.26,sold
+2024,May,Envoy Textiles Ltd.,Denim Scraps,1953.36,7733.86,4.8,Industrial Cleaning,1703.65,sold
+2024,May,DBL Group,Cotton Waste,716.08,1554.83,5.0,Compost Material,5651.63,sold
+2024,May,Square Textiles Ltd.,Thread Waste,1295.32,1950.25,7.4,Packaging,5317.06,sold
+2024,June,Envoy Textiles Ltd.,Chemical Containers,961.2,7001.12,4.2,Compost Material,4767.89,sold
+2024,June,DBL Group,Synthetic Fiber Waste,1615.82,9253.85,9.8,Packaging,1713.49,sold
+2024,June,Square Textiles Ltd.,Denim Scraps,296.42,2216.3,2.2,Compost Material,776.24,sold
+2024,July,Envoy Textiles Ltd.,Synthetic Fiber Waste,1540.97,708.87,8.4,Packaging,5291.24,ready for sell
+2024,July,DBL Group,Cotton Waste,1422.46,3753.51,2.0,Compost Material,4752.59,sold
+2024,July,Square Textiles Ltd.,Packaging Material,1510.18,5342.49,4.8,Reprocessed Fabric,4909.5,sold
+2024,August,Envoy Textiles Ltd.,Chemical Containers,528.95,738.83,7.5,Packaging,6395.1,sold
+2024,August,DBL Group,Packaging Material,1816.27,6886.65,9.1,Compost Material,7758.57,sold
+2024,August,Square Textiles Ltd.,Packaging Material,234.74,2298.93,7.9,Industrial Cleaning,6658.52,sold
+2024,September,Envoy Textiles Ltd.,Thread Waste,153.84,8371.04,8.1,Reprocessed Fabric,4158.26,sold
+2024,September,DBL Group,Chemical Containers,176.63,2410.8,2.6,Insulation Material,6090.59,sold
+2024,September,Square Textiles Ltd.,Synthetic Fiber Waste,1271.28,9866.27,6.8,Packaging,4880.3,sold
+2024,October,Envoy Textiles Ltd.,Packaging Material,667.48,8735.94,7.7,Industrial Cleaning,567.86,sold
+2024,October,DBL Group,Cotton Waste,1422.82,2457.7,5.0,Compost Material,6619.94,sold
+2024,October,Square Textiles Ltd.,Packaging Material,1816.87,1554.45,2.6,Compost Material,6444.3,sold
+2024,November,Envoy Textiles Ltd.,Denim Scraps,1593.04,4893.34,9.5,Insulation Material,2749.17,sold
+2024,November,DBL Group,Cotton Waste,1193.99,2054.43,2.1,Packaging,7747.77,sold
+2024,November,Square Textiles Ltd.,Thread Waste,162.37,4944.66,6.8,Insulation Material,6689.7,sold
+2024,December,Envoy Textiles Ltd.,Cotton Waste,474.9,3513.92,3.5,Compost Material,3816.74,sold
+2024,December,DBL Group,Cotton Waste,1999.44,8511.38,4.3,Compost Material,4185.26,sold
+2024,December,Square Textiles Ltd.,Packaging Material,949.93,8003.71,6.6,Insulation Material,1335.02,ready for sell
+2025,January,Envoy Textiles Ltd.,Thread Waste,1254.65,5612.3,5.2,Packaging,1449.01,sold
+2025,January,DBL Group,Synthetic Fiber Waste,405.15,3736.51,3.9,Insulation Material,626.79,sold
+2025,January,Square Textiles Ltd.,Thread Waste,1168.52,6872.85,7.3,Compost Material,4800.87,sold
+2025,February,Envoy Textiles Ltd.,Thread Waste,1251.43,1351.5,9.6,Industrial Cleaning,1487.24,sold
+2025,February,DBL Group,Packaging Material,1220.49,4774.17,8.7,Compost Material,4042.39,sold
+2025,February,Square Textiles Ltd.,Chemical Containers,1707.95,3885.48,8.5,Compost Material,2007.9,sold
+2025,March,Envoy Textiles Ltd.,Packaging Material,821.92,4760.61,9.8,Insulation Material,3672.25,sold
+2025,March,DBL Group,Packaging Material,1786.68,3522.78,2.5,Reprocessed Fabric,1283.92,sold
+2025,March,Square Textiles Ltd.,Packaging Material,581.92,2666.59,1.1,Insulation Material,6288.2,sold
+2025,April,Envoy Textiles Ltd.,Synthetic Fiber Waste,1973.13,3432.01,2.2,Insulation Material,465.44,sold
+2025,April,DBL Group,Packaging Material,568.82,4775.91,1.2,Insulation Material,5387.13,sold
+2025,April,Square Textiles Ltd.,Thread Waste,1519.9,1003.94,5.9,Packaging,1519.31,sold
+2025,May,Envoy Textiles Ltd.,Cotton Waste,1173.64,8657.38,2.1,Packaging,5420.78,sold
+2025,May,DBL Group,Synthetic Fiber Waste,938.94,9477.36,2.3,Reprocessed Fabric,1662.81,sold
+2025,May,Square Textiles Ltd.,Chemical Containers,1928.15,9064.12,3.4,Insulation Material,7631.23,sold
+2025,June,Envoy Textiles Ltd.,Synthetic Fiber Waste,1261.58,9658.51,1.9,Industrial Cleaning,2327.3,sold
+2025,June,DBL Group,Synthetic Fiber Waste,1439.33,1309.4,6.9,Compost Material,1329.62,sold
+2025,June,Square Textiles Ltd.,Thread Waste,1031.01,1548.89,4.8,Industrial Cleaning,5792.63,sold
+2025,July,Envoy Textiles Ltd.,Chemical Containers,134.27,9375.41,1.8,Compost Material,1166.8,sold
+2025,July,DBL Group,Chemical Containers,1748.21,3231.73,4.0,Compost Material,1200.44,sold
+2025,July,Square Textiles Ltd.,Cotton Waste,1751.33,5764.22,6.5,Packaging,5354.45,sold
+2025,August,Envoy Textiles Ltd.,Synthetic Fiber Waste,1595.24,1605.31,4.2,Compost Material,7391.15,sold
+2025,August,DBL Group,Denim Scraps,958.97,8643.33,1.4,Industrial Cleaning,2092.4,sold
+2025,August,Square Textiles Ltd.,Chemical Containers,1854.27,4844.51,8.6,Insulation Material,3964.16,ready for sell
+2025,September,Envoy Textiles Ltd.,Chemical Containers,1356.58,1524.03,5.4,Reprocessed Fabric,4286.17,sold
+2025,September,DBL Group,Chemical Containers,1306.8,9140.78,1.2,Reprocessed Fabric,3312.19,sold
+2025,September,Square Textiles Ltd.,Cotton Waste,389.13,2178.11,3.6,Compost Material,3819.02,sold
+2025,October,Envoy Textiles Ltd.,Packaging Material,1380.97,8140.48,6.9,Industrial Cleaning,4157.7,sold
+2025,October,DBL Group,Thread Waste,1706.85,1597.42,9.7,Compost Material,819.19,sold
+2025,October,Square Textiles Ltd.,Cotton Waste,885.07,4353.38,7.1,Packaging,4790.28,sold
+2025,November,Envoy Textiles Ltd.,Chemical Containers,1361.89,4484.18,9.7,Reprocessed Fabric,7066.65,sold
+2025,November,DBL Group,Synthetic Fiber Waste,1129.86,9230.86,9.1,Insulation Material,1696.46,ready for sell
+2025,November,Square Textiles Ltd.,Thread Waste,431.95,2387.18,3.5,Packaging,651.91,sold
+2025,December,Envoy Textiles Ltd.,Chemical Containers,428.36,3772.81,1.6,Packaging,1353.23,sold
+2025,December,DBL Group,Cotton Waste,301.24,677.14,8.2,Packaging,6126.11,ready for sell
+2025,December,Square Textiles Ltd.,Synthetic Fiber Waste,1709.97,590.62,4.6,Compost Material,5948.47,sold
+2021,January,Envoy Textiles Ltd.,Synthetic Fiber Waste,1106.32,3803.82,5.7,Insulation Material,110.71,sold
+2021,January,DBL Group,Denim Scraps,1736.34,1969.51,5.1,Insulation Material,2073.95,sold
+2021,January,Square Textiles Ltd.,Denim Scraps,1767.23,4472.25,9.2,Reprocessed Fabric,4615.93,sold
+2021,February,Envoy Textiles Ltd.,Thread Waste,849.52,9820.75,7.8,Compost Material,218.49,sold
+2021,February,DBL Group,Chemical Containers,1992.42,2210.0,5.5,Insulation Material,5127.79,ready for sell
+2021,February,Square Textiles Ltd.,Chemical Containers,756.38,2966.3,4.9,Packaging,1849.8,sold
+2021,March,Envoy Textiles Ltd.,Thread Waste,877.57,3247.33,8.3,Insulation Material,7581.62,sold
+2021,March,DBL Group,Synthetic Fiber Waste,1248.09,8358.0,4.8,Compost Material,4418.34,ready for sell
+2021,March,Square Textiles Ltd.,Cotton Waste,1043.16,3407.01,9.3,Reprocessed Fabric,5776.97,sold
+2021,April,Envoy Textiles Ltd.,Synthetic Fiber Waste,1559.14,9626.92,5.5,Packaging,3034.56,sold
+2021,April,DBL Group,Packaging Material,1120.62,2433.59,2.4,Compost Material,3932.54,sold
+2021,April,Square Textiles Ltd.,Thread Waste,115.58,9038.75,9.4,Packaging,203.3,ready for sell
+2021,May,Envoy Textiles Ltd.,Denim Scraps,1640.39,9498.12,2.2,Industrial Cleaning,4412.63,sold
+2021,May,DBL Group,Denim Scraps,1228.49,1909.82,4.6,Industrial Cleaning,7991.3,sold
+2021,May,Square Textiles Ltd.,Synthetic Fiber Waste,1775.18,4249.27,7.2,Insulation Material,2593.66,sold
+2021,June,Envoy Textiles Ltd.,Chemical Containers,1251.78,5475.71,1.2,Reprocessed Fabric,2184.07,sold
+2021,June,DBL Group,Packaging Material,1085.98,6254.72,9.7,Industrial Cleaning,7316.74,sold
+2021,June,Square Textiles Ltd.,Cotton Waste,1863.01,8369.59,3.9,Reprocessed Fabric,5220.36,sold
+2021,July,Envoy Textiles Ltd.,Chemical Containers,1513.69,5280.58,1.6,Compost Material,6467.16,sold
+2021,July,DBL Group,Denim Scraps,1682.57,7555.85,8.6,Reprocessed Fabric,349.8,sold
+2021,July,Square Textiles Ltd.,Cotton Waste,1664.95,6985.91,7.3,Industrial Cleaning,3169.4,sold
+2021,August,Envoy Textiles Ltd.,Cotton Waste,1364.86,2530.53,6.9,Insulation Material,1491.11,sold
+2021,August,DBL Group,Packaging Material,833.13,9829.74,4.5,Reprocessed Fabric,1054.16,sold
+2021,August,Square Textiles Ltd.,Chemical Containers,646.35,2023.04,3.5,Packaging,5899.18,sold
+2021,September,Envoy Textiles Ltd.,Packaging Material,1545.26,5066.87,9.4,Insulation Material,4916.69,sold
+2021,September,DBL Group,Thread Waste,1576.86,8404.9,4.3,Insulation Material,1920.91,sold
+2021,September,Square Textiles Ltd.,Cotton Waste,893.51,7498.19,2.0,Industrial Cleaning,2100.34,ready for sell
+2021,October,Envoy Textiles Ltd.,Synthetic Fiber Waste,1627.81,8023.63,2.1,Reprocessed Fabric,1444.21,sold
+2021,October,DBL Group,Synthetic Fiber Waste,1156.85,4408.4,9.5,Compost Material,2779.4,sold
+2021,October,Square Textiles Ltd.,Cotton Waste,629.28,7830.09,4.2,Industrial Cleaning,2624.22,sold
+2021,November,Envoy Textiles Ltd.,Chemical Containers,928.11,4796.61,1.1,Packaging,5884.68,sold
+2021,November,DBL Group,Synthetic Fiber Waste,1369.54,9010.21,1.5,Packaging,5761.39,sold
+2021,November,Square Textiles Ltd.,Packaging Material,1062.86,1702.18,5.3,Insulation Material,3992.13,sold
+2021,December,Envoy Textiles Ltd.,Packaging Material,379.13,5745.53,7.8,Industrial Cleaning,3377.3,sold
+2021,December,DBL Group,Cotton Waste,176.97,1667.66,2.8,Insulation Material,388.51,sold
+2021,December,Square Textiles Ltd.,Cotton Waste,1447.7,6068.73,4.2,Insulation Material,1970.82,sold
+2022,January,Envoy Textiles Ltd.,Thread Waste,341.65,1187.31,8.9,Packaging,3391.89,sold
+2022,January,DBL Group,Chemical Containers,843.76,2990.07,4.1,Industrial Cleaning,5277.78,sold
+2022,January,Square Textiles Ltd.,Thread Waste,1581.92,6833.04,3.8,Compost Material,4715.38,sold
+2022,February,Envoy Textiles Ltd.,Chemical Containers,193.4,5948.25,8.7,Compost Material,7022.71,sold
+2022,February,DBL Group,Chemical Containers,1872.92,6743.38,5.0,Compost Material,584.26,sold
+2022,February,Square Textiles Ltd.,Thread Waste,1043.63,1869.59,9.3,Compost Material,609.48,sold
+2022,March,Envoy Textiles Ltd.,Cotton Waste,963.03,2768.28,8.5,Industrial Cleaning,200.78,sold
+2022,March,DBL Group,Chemical Containers,894.2,5872.8,6.8,Packaging,7345.08,sold
+2022,March,Square Textiles Ltd.,Packaging Material,1375.87,541.42,9.3,Insulation Material,1315.22,sold
+2022,April,Envoy Textiles Ltd.,Denim Scraps,1838.37,2110.85,8.4,Compost Material,3599.02,sold
+2022,April,DBL Group,Cotton Waste,707.34,8199.11,7.2,Industrial Cleaning,3487.83,ready for sell
+2022,April,Square Textiles Ltd.,Denim Scraps,431.84,8563.52,3.7,Industrial Cleaning,1206.35,sold
+2022,May,Envoy Textiles Ltd.,Thread Waste,1890.24,5508.65,3.9,Packaging,7309.42,sold
+2022,May,DBL Group,Packaging Material,1535.33,6263.84,6.6,Compost Material,5066.9,sold
+2022,May,Square Textiles Ltd.,Thread Waste,1974.19,7456.76,8.0,Packaging,254.23,sold
+2022,June,Envoy Textiles Ltd.,Cotton Waste,1076.75,8377.23,5.0,Insulation Material,972.82,sold
+2022,June,DBL Group,Synthetic Fiber Waste,1268.91,8366.41,2.4,Reprocessed Fabric,146.83,sold
+2022,June,Square Textiles Ltd.,Thread Waste,1710.07,3890.55,2.0,Compost Material,1896.63,sold
+2022,July,Envoy Textiles Ltd.,Thread Waste,1368.44,6289.73,6.8,Compost Material,5524.03,sold
+2022,July,DBL Group,Denim Scraps,1536.0,9661.64,2.0,Compost Material,6925.09,sold
+2022,July,Square Textiles Ltd.,Chemical Containers,1868.53,2834.63,6.2,Compost Material,1444.03,sold
+2022,August,Envoy Textiles Ltd.,Thread Waste,744.49,3565.5,6.8,Compost Material,1792.62,sold
+2022,August,DBL Group,Thread Waste,602.73,5435.27,5.1,Packaging,7637.34,sold
+2022,August,Square Textiles Ltd.,Chemical Containers,1626.91,5550.21,2.7,Insulation Material,4440.97,sold
+2022,September,Envoy Textiles Ltd.,Cotton Waste,848.56,3020.47,2.5,Industrial Cleaning,2697.09,sold
+2022,September,DBL Group,Chemical Containers,1323.16,3661.77,7.8,Reprocessed Fabric,6211.81,sold
+2022,September,Square Textiles Ltd.,Synthetic Fiber Waste,1262.62,4048.44,7.3,Insulation Material,7546.62,sold
+2022,October,Envoy Textiles Ltd.,Chemical Containers,1216.62,2895.73,2.8,Compost Material,4513.96,sold
+2022,October,DBL Group,Packaging Material,1908.35,8012.34,4.4,Industrial Cleaning,7462.36,sold
+2022,October,Square Textiles Ltd.,Denim Scraps,1098.18,7386.65,4.9,Packaging,4517.57,sold
+2022,November,Envoy Textiles Ltd.,Cotton Waste,1198.64,5232.23,6.2,Reprocessed Fabric,762.79,sold
+2022,November,DBL Group,Cotton Waste,581.57,1205.35,1.9,Reprocessed Fabric,4829.23,sold
+2022,November,Square Textiles Ltd.,Denim Scraps,617.86,8779.68,5.4,Industrial Cleaning,899.99,sold
+2022,December,Envoy Textiles Ltd.,Cotton Waste,1064.51,8175.67,4.3,Compost Material,427.84,sold
+2022,December,DBL Group,Denim Scraps,791.41,8416.11,5.1,Compost Material,3195.0,ready for sell
+2022,December,Square Textiles Ltd.,Cotton Waste,1434.59,6523.87,9.9,Compost Material,7810.96,sold
+2023,January,Envoy Textiles Ltd.,Packaging Material,1361.22,5153.37,5.7,Industrial Cleaning,7629.68,sold
+2023,January,DBL Group,Denim Scraps,684.68,1560.14,8.6,Reprocessed Fabric,2926.5,ready for sell
+2023,January,Square Textiles Ltd.,Thread Waste,661.71,6019.94,9.5,Industrial Cleaning,5922.27,sold
+2023,February,Envoy Textiles Ltd.,Thread Waste,581.46,5297.77,1.3,Reprocessed Fabric,6875.52,sold
+2023,February,DBL Group,Synthetic Fiber Waste,1077.6,1515.41,6.9,Packaging,6295.08,sold
+2023,February,Square Textiles Ltd.,Cotton Waste,488.56,3710.71,5.2,Packaging,6007.17,ready for sell
+2023,March,Envoy Textiles Ltd.,Denim Scraps,1493.88,6437.75,8.7,Industrial Cleaning,1884.46,sold
+2023,March,DBL Group,Packaging Material,234.95,5134.83,7.3,Compost Material,6989.64,sold
+2023,March,Square Textiles Ltd.,Synthetic Fiber Waste,1647.17,5436.85,7.9,Industrial Cleaning,1348.93,sold
+2023,April,Envoy Textiles Ltd.,Denim Scraps,457.9,3833.76,9.4,Compost Material,6508.72,sold
+2023,April,DBL Group,Cotton Waste,1463.07,9461.33,5.7,Insulation Material,430.39,sold
+2023,April,Square Textiles Ltd.,Thread Waste,864.05,6616.99,6.0,Packaging,3242.06,sold
+2023,May,Envoy Textiles Ltd.,Cotton Waste,1772.47,9628.59,9.0,Insulation Material,3384.71,sold
+2023,May,DBL Group,Denim Scraps,1448.63,9530.62,3.2,Compost Material,5547.9,sold
+2023,May,Square Textiles Ltd.,Packaging Material,579.33,6073.95,8.2,Packaging,6367.05,sold
+2023,June,Envoy Textiles Ltd.,Denim Scraps,1883.64,5572.32,6.4,Packaging,4140.59,sold
+2023,June,DBL Group,Synthetic Fiber Waste,897.75,5327.56,1.6,Packaging,4399.02,sold
+2023,June,Square Textiles Ltd.,Denim Scraps,1044.59,1780.46,5.5,Compost Material,2552.14,sold
+2023,July,Envoy Textiles Ltd.,Denim Scraps,499.88,3523.42,3.2,Packaging,7280.95,sold
+2023,July,DBL Group,Thread Waste,1561.42,4001.34,9.6,Compost Material,2288.28,sold
+2023,July,Square Textiles Ltd.,Synthetic Fiber Waste,762.17,1754.63,3.4,Compost Material,339.32,sold
+2023,August,Envoy Textiles Ltd.,Synthetic Fiber Waste,1281.47,6212.92,5.9,Insulation Material,7483.75,sold
+2023,August,DBL Group,Synthetic Fiber Waste,915.71,4374.91,2.0,Reprocessed Fabric,5408.36,sold
+2023,August,Square Textiles Ltd.,Thread Waste,1984.38,2655.42,3.8,Reprocessed Fabric,6532.25,sold
+2023,September,Envoy Textiles Ltd.,Packaging Material,129.72,9371.66,8.3,Insulation Material,6644.71,sold
+2023,September,DBL Group,Packaging Material,390.78,5303.07,4.7,Industrial Cleaning,4834.42,sold
+2023,September,Square Textiles Ltd.,Synthetic Fiber Waste,868.29,2038.69,7.3,Insulation Material,3065.48,sold
+2023,October,Envoy Textiles Ltd.,Chemical Containers,1154.25,8063.77,1.0,Insulation Material,285.33,sold
+2023,October,DBL Group,Synthetic Fiber Waste,1830.51,8542.27,2.1,Packaging,4755.21,sold
+2023,October,Square Textiles Ltd.,Chemical Containers,606.12,9044.8,9.3,Industrial Cleaning,4214.55,sold
+2023,November,Envoy Textiles Ltd.,Cotton Waste,328.65,1436.1,7.8,Insulation Material,5902.45,sold
+2023,November,DBL Group,Thread Waste,1287.78,3717.11,2.1,Industrial Cleaning,2744.41,sold
+2023,November,Square Textiles Ltd.,Thread Waste,1427.41,7187.39,5.4,Packaging,3639.0,sold
+2023,December,Envoy Textiles Ltd.,Thread Waste,610.34,5576.66,8.5,Industrial Cleaning,5104.93,sold
+2023,December,DBL Group,Packaging Material,510.97,8168.32,7.8,Insulation Material,7917.21,sold
+2023,December,Square Textiles Ltd.,Packaging Material,962.13,5315.84,7.2,Reprocessed Fabric,453.54,sold
+2024,January,Envoy Textiles Ltd.,Chemical Containers,1918.9,3522.55,3.0,Compost Material,6091.43,sold
+2024,January,DBL Group,Thread Waste,1466.99,3693.57,3.6,Reprocessed Fabric,287.36,sold
+2024,January,Square Textiles Ltd.,Chemical Containers,1075.42,8340.55,8.3,Packaging,6743.3,sold
+2024,February,Envoy Textiles Ltd.,Thread Waste,1257.68,4939.89,6.6,Packaging,4144.98,sold
+2024,February,DBL Group,Denim Scraps,1189.94,4725.65,7.0,Compost Material,7018.16,sold
+2024,February,Square Textiles Ltd.,Synthetic Fiber Waste,1892.51,1435.7,3.4,Compost Material,6787.62,sold
+2024,March,Envoy Textiles Ltd.,Thread Waste,364.02,2897.93,7.6,Reprocessed Fabric,3238.21,sold
+2024,March,DBL Group,Thread Waste,1454.27,5772.55,9.1,Compost Material,3994.84,sold
+2024,March,Square Textiles Ltd.,Cotton Waste,1900.31,3880.54,3.2,Insulation Material,7088.93,sold
+2024,April,Envoy Textiles Ltd.,Chemical Containers,914.58,2232.18,9.5,Insulation Material,1743.39,sold
+2024,April,DBL Group,Thread Waste,1638.38,7108.94,7.9,Insulation Material,4287.91,sold
+2024,April,Square Textiles Ltd.,Chemical Containers,501.4,6510.43,9.8,Packaging,5592.67,sold
+2024,May,Envoy Textiles Ltd.,Packaging Material,1418.37,8899.97,5.2,Insulation Material,560.55,sold
+2024,May,DBL Group,Synthetic Fiber Waste,1529.56,8707.08,6.9,Insulation Material,987.83,ready for sell
+2024,May,Square Textiles Ltd.,Cotton Waste,661.64,7200.95,5.6,Insulation Material,1384.95,sold
+2024,June,Envoy Textiles Ltd.,Cotton Waste,458.38,1578.0,5.9,Compost Material,1632.55,sold
+2024,June,DBL Group,Denim Scraps,1109.53,8153.02,8.1,Industrial Cleaning,6268.21,sold
+2024,June,Square Textiles Ltd.,Chemical Containers,1578.17,5183.78,6.1,Insulation Material,3334.64,sold
+2024,July,Envoy Textiles Ltd.,Chemical Containers,666.16,612.78,3.7,Reprocessed Fabric,4955.66,sold
+2024,July,DBL Group,Packaging Material,1770.31,8221.19,7.0,Packaging,4438.24,sold
+2024,July,Square Textiles Ltd.,Thread Waste,1997.37,2736.37,7.5,Reprocessed Fabric,6137.53,sold
+2024,August,Envoy Textiles Ltd.,Cotton Waste,345.17,5501.93,4.6,Insulation Material,2422.63,sold
+2024,August,DBL Group,Cotton Waste,693.04,619.65,1.9,Reprocessed Fabric,4324.93,sold
+2024,August,Square Textiles Ltd.,Thread Waste,265.04,7166.28,1.5,Reprocessed Fabric,972.11,sold
+2024,September,Envoy Textiles Ltd.,Chemical Containers,1318.65,7816.25,2.3,Compost Material,164.36,sold
+2024,September,DBL Group,Denim Scraps,1207.7,4315.7,9.5,Compost Material,7988.93,sold
+2024,September,Square Textiles Ltd.,Packaging Material,1161.54,1065.37,3.5,Industrial Cleaning,1592.07,sold
+2024,October,Envoy Textiles Ltd.,Cotton Waste,652.22,3326.18,3.7,Compost Material,5601.86,sold
+2024,October,DBL Group,Thread Waste,1458.95,2126.26,1.9,Industrial Cleaning,212.79,sold
+2024,October,Square Textiles Ltd.,Denim Scraps,355.96,1933.7,8.1,Insulation Material,2904.46,ready for sell
+2024,November,Envoy Textiles Ltd.,Packaging Material,1379.09,8339.33,3.7,Reprocessed Fabric,2799.52,sold
+2024,November,DBL Group,Denim Scraps,137.4,7488.61,5.4,Industrial Cleaning,2143.59,sold
