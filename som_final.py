@@ -65,7 +65,8 @@ eval_rows = []
 for name, mdl in models_rq2.items():
     mdl.fit(X_train, y_train)
     preds = mdl.predict(X_test)
-    rmse = mean_squared_error(y_test, preds, squared=False)
+    mse  = mean_squared_error(y_test, preds)
+    rmse = mse ** 0.5
     mae  = mean_absolute_error(y_test, preds)
     r2   = r2_score(y_test, preds)
     eval_rows += [
